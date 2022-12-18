@@ -1,0 +1,15 @@
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\bin\Debug\net6.0\Observer_Pattern_Challenge.exe
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\bin\Debug\net6.0\Observer_Pattern_Challenge.deps.json
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\bin\Debug\net6.0\Observer_Pattern_Challenge.runtimeconfig.json
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\bin\Debug\net6.0\Observer_Pattern_Challenge.dll
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\bin\Debug\net6.0\ref\Observer_Pattern_Challenge.dll
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\bin\Debug\net6.0\Observer_Pattern_Challenge.pdb
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\obj\Debug\net6.0\Observer_Pattern_Challenge.csproj.AssemblyReference.cache
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\obj\Debug\net6.0\Observer_Pattern_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\obj\Debug\net6.0\Observer_Pattern_Challenge.AssemblyInfoInputs.cache
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\obj\Debug\net6.0\Observer_Pattern_Challenge.AssemblyInfo.cs
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\obj\Debug\net6.0\Observer_Pattern_Challenge.csproj.CoreCompileInputs.cache
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\obj\Debug\net6.0\Observer_Pattern_Challenge.dll
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\obj\Debug\net6.0\ref\Observer_Pattern_Challenge.dll
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\obj\Debug\net6.0\Observer_Pattern_Challenge.pdb
+D:\__00_Code_With_Mosh\DesignPatterns\BehavorialPatterns\Observer\Observer_Pattern_Challenge\obj\Debug\net6.0\Observer_Pattern_Challenge.genruntimeconfig.cache
